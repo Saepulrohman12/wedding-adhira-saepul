@@ -390,7 +390,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           album: "Wedding Invitation",
           artwork: [
             {
-              src: "Elemen/Photo%20Gallery/Foto5.webp",
+              src: "Elemen/Photo%20Gallery/Foto7.webp",
               sizes: "512x512",
               type: "image/webp",
             },
